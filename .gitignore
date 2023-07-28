@@ -1,3 +1,5 @@
 modules/*.txt
 node_modules/*
 */node_modules/
+packages/npm/node_modules
+packages/utils/node_modules
