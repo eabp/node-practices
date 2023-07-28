@@ -13,7 +13,7 @@ const puppeteer = require('puppeteer');
     });
 
     console.log('title', title);
-    console.log('browser closing');
+    console.log('closing the browser');
     browser.close();
-    console.log('browser closed');
+    console.log('closed browser');
 })();
